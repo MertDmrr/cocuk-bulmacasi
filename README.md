@@ -29,7 +29,6 @@ Bölümler ilerledikçe nesne sayısı artar, yerleşme mesafesi küçülür (0.
 | `SurukleBirak.cs` | Nesneyi fareyle sürükleme, doğru/yanlış kontrolü, ses ve partikül efekti |
 | `BolumYoneticisi.cs` | Yerleşen nesneleri sayar, bölüm bitince sonraki sahneye geçer |
 | `AnaMenuYoneticisi.cs` | Oyna, ses aç/kapat ve çıkış butonları |
-| `WebdeGizle.cs` | Tarayıcı sürümünde çalışmayan çıkış butonunu gizler |
 
 ## Projeyi açma
 

@@ -229,8 +229,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -70}
-  m_SizeDelta: {x: 380, y: 380}
+  m_AnchoredPosition: {x: 0, y: -130}
+  m_SizeDelta: {x: 370, y: 370}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &94497139
 MonoBehaviour:
@@ -791,10 +791,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 2088005353}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 1}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -115, y: -115}
-  m_SizeDelta: {x: 160, y: 160}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -335, y: -130}
+  m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &751049684
 GameObject:
@@ -808,7 +808,6 @@ GameObject:
   - component: {fileID: 751049688}
   - component: {fileID: 751049687}
   - component: {fileID: 751049686}
-  - component: {fileID: 751049689}
   m_Layer: 0
   m_Name: CikisButonu
   m_TagString: Untagged
@@ -830,10 +829,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 2088005353}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 115, y: -120}
-  m_SizeDelta: {x: 160, y: 175}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 335, y: -130}
+  m_SizeDelta: {x: 200, y: 215}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &751049686
 MonoBehaviour:
@@ -929,18 +928,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 751049684}
   m_CullTransparentMesh: 1
---- !u!114 &751049689
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 751049684}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 408fd595c84e0472baaf55610e240124, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::WebdeGizle
 --- !u!1 &853230270
 GameObject:
   m_ObjectHideFlags: 0
@@ -1254,7 +1241,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 345}
+  m_AnchoredPosition: {x: 0, y: 300}
   m_SizeDelta: {x: 860, y: 320}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1541905741
