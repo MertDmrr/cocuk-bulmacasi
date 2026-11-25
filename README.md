@@ -1,5 +1,7 @@
 # Çocuk Bulmacası
 
+**▶ Tarayıcıda oyna:** https://mertdmrr.github.io/cocuk-bulmacasi/
+
 Unity 2D ile yapılmış, küçük çocuklar için bir gölge eşleştirme (şekil yerleştirme) oyunu. Çocuk, renkli nesneleri sürükleyip doğru gölgenin üstüne bırakır. Doğru yere oturan nesne konfeti ve alkış sesiyle kutlanır. Yanlış yere bırakılan nesne titreyip başladığı yere geri döner.
 
 ## Bölümler
