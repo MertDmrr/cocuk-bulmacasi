@@ -293,13 +293,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.24, y: 2.08}
+    oldSize: {x: 2.24, y: 2.144681}
     newSize: {x: 2.24, y: 2.08}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.24, y: 2.08}
+  m_Size: {x: 2.24, y: 2.144681}
   m_EdgeRadius: 0
 --- !u!212 &70167610
 SpriteRenderer:
@@ -728,13 +728,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.12, y: 2.16}
+    oldSize: {x: 2.16, y: 2.16}
     newSize: {x: 2.12, y: 2.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.12, y: 2.16}
+  m_Size: {x: 2.16, y: 2.16}
   m_EdgeRadius: 0
 --- !u!212 &239750452
 SpriteRenderer:
@@ -1073,13 +1073,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.2, y: 2.16}
+    oldSize: {x: 2.2, y: 2.113426}
     newSize: {x: 2.2, y: 2.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.2, y: 2.16}
+  m_Size: {x: 2.2, y: 2.113426}
   m_EdgeRadius: 0
 --- !u!212 &487550059
 SpriteRenderer:
@@ -1639,7 +1639,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.16, y: 2.16}
+    oldSize: {x: 2.1599998, y: 2.1599998}
     newSize: {x: 2.16, y: 2.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2736,7 +2736,7 @@ ParticleSystem:
           m_PostInfinity: 2
           m_RotationOrder: 4
       cycleCount: 1
-      repeatInterval: 0.0001
+      repeatInterval: 0.01
       probability: 1
   SizeModule:
     enabled: 0
@@ -7143,13 +7143,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.56, y: 2.48}
+    oldSize: {x: 1.1878157, y: 2.48}
     newSize: {x: 1.56, y: 2.48}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.56, y: 2.48}
+  m_Size: {x: 1.1878157, y: 2.48}
   m_EdgeRadius: 0
 --- !u!212 &2064376288
 SpriteRenderer:
